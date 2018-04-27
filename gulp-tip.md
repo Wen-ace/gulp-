@@ -1,4 +1,4 @@
-### gulp 的简单使用
+﻿### gulp 的简单使用
 - 安装 gulp
     - 安装全局 gulp
     ```
@@ -21,7 +21,7 @@
     // 很容易安装失败， 可以先安装node-sass 安装成功之后再安装 gulp-sass
     const autoprefixer = require('gulp-autoprefixer');
     const babel = require('gulp-babel');
-    // 之前安装 gulp-es6-compeliter 不好用
+    // 之前安装 gulp-es6-transpiler不好用
     // 安装 gulp-babel 需要安装一些其他依赖: babel-core babel-preset-es2015
     ```
     - 定义匹配规则
