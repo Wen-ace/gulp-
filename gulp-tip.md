@@ -82,3 +82,4 @@
     cmd> gulp
     ```
     根据项目实际需求（图片gulp-imagemin...）配置相应gulp插件（安装主流插件，有些插件容易出bug）
+### [author](http://github.io/Wen-ace)
